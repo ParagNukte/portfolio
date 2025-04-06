@@ -21,16 +21,17 @@ function About() {
             <div className="grid grid-cols-1 gap-12 lg:grid-cols-2">
               <div>
                 <h3 className="text-2xl font-semibold text-gray-900">
-                  My Journey
+                  My brief
                 </h3>
                 <p className="mt-4 text-lg text-gray-600">
-                  I started my journey in web development with a passion for
-                  creating innovative and scalable applications. With
-                  proficiency in the popular JavaScript library, React, I have
-                  built projects such as a full-stack blog post application, a
-                  to-do list, and more. My projects showcase my ability to
-                  integrate powerful front-end solutions with sleek, smooth, and
-                  user-friendly designs.
+                  Frontend Developer with 3.5 years of experience at Infosys
+                  Ltd., specializing in web and mobile development. Proficient
+                  in React.js, React Native, and Next.js, with a focus on
+                  building responsive, dynamic web pages and reusable
+                  components. Experienced in state management, API integrations,
+                  and authentication. Passionate about writing clean,
+                  maintainable code and solving problems with a "KISS" approach.
+                  Currently upskilling to become a full-stack MERN developer.
                 </p>
                 <img
                   src="mernstack.png"
