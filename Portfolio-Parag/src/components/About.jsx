@@ -85,9 +85,10 @@ function About() {
               <p className="mt-4 text-lg text-gray-600">
                 Apart from coding, I am passionate about learning new
                 technologies and keeping myself updated with the latest trends
-                in tweb development. I aslo run a Youtube channel where I teach
-                Javascript, MERN Stack developement, and much more. Helping
-                others dive deep into the world of programming and technology.
+                web development. I also write some blogs on LinkedIn, Dev, etc.
+                where I share some insights about Javascript, MERN Stack
+                developement, and much more. Helping others dive deep into the
+                world of programming and technology.
               </p>
             </h3>
           </div>
