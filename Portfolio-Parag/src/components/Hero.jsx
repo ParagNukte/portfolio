@@ -14,7 +14,7 @@ function Hero() {
               and modern web technologies. I love creating beautiful and
               functional websites that solve real-world problems.
             </p>
-            <a href="/resume.pdf" download="Parag_Nukte_Resume.pdf">
+            <a href="/ParagNukte_FrontendDev_Resume.pdf" download="ParagNukte_FrontendDev_Resume.pdf">
               <button className="bg-black text-white px-3 py-2 w-max rounded-md">
                 Download Resume
               </button>
